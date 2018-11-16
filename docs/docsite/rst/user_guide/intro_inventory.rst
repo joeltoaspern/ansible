@@ -2,7 +2,7 @@
 .. _inventory:
 
 
-Working with Inventory
+Working With Inventory
 ======================
 
 .. contents:: Topics
